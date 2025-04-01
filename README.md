@@ -1,5 +1,5 @@
 # nonebot-plugin-add1
-群聊复读姬
+基于nonebotv11的群聊复读姬
 
 可以复读文本图片表情
 
